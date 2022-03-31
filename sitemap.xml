@@ -2,6 +2,62 @@
 		<!--	created with www.mysitemapgenerator.com	-->
 		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+    <loc>https://uwatch4free.netlify.app/</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en-US"
+               href="https://uwatch4free.netlify.app/"/>
+    </url>
+    <url>
+     <loc>https://uwatch4free.netlify.app/</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en-GB"
+               href="https://uwatch4free.netlify.app/"/>
+    </url>
+	<url>
+	 <loc>https://uwatch4free.netlify.app/</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en-CA" 
+               href="https://uwatch4free.netlify.app/"/>
+    </url>
+	<url>
+	 <loc>https://uwatch4free.netlify.app/</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en-AU" 
+               href="https://uwatch4free.netlify.app/"/>
+    </url>
+	<url>
+	 <loc>https://uwatch4free.netlify.app/</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en-SE" 
+               href="https://uwatch4free.netlify.app/"/>
+    </url>
+	<url>
+	 <loc>https://uwatch4free.netlify.app/</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en-FR" 
+               href="https://uwatch4free.netlify.app/"/>
+    </url>
+	<url>
+	 <loc>https://uwatch4free.netlify.app/</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en-DK" 
+               href="https://uwatch4free.netlify.app/"/>
+    </url>
+    <url>
+	 <loc>https://uwatch4free.netlify.app/</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en-NO" 
+               href="https://uwatch4free.netlify.app/"/>
+    </url>		
+<url>
 	<loc>https://uwatch4free.netlify.app/</loc>
 	<lastmod>2022-04-01T00:17:44+01:00</lastmod>
 	<priority>1.0</priority>
