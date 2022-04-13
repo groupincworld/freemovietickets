@@ -1,62 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://uwatch4free.netlify.app/</loc>
-    <xhtml:link
-               rel="alternate"
-               hreflang="en-US"
-               href="https://uwatch4free.netlify.app/"/>
-    </url>
-    <url>
-     <loc>https://uwatch4free.netlify.app/</loc>
-    <xhtml:link
-               rel="alternate"
-               hreflang="en-GB"
-               href="https://uwatch4free.netlify.app/"/>
-    </url>
-	<url>
-	 <loc>https://uwatch4free.netlify.app/</loc>
-    <xhtml:link
-               rel="alternate"
-               hreflang="en-CA" 
-               href="https://uwatch4free.netlify.app/"/>
-    </url>
-	<url>
-	 <loc>https://uwatch4free.netlify.app/</loc>
-    <xhtml:link
-               rel="alternate"
-               hreflang="en-AU" 
-               href="https://uwatch4free.netlify.app/"/>
-    </url>
-	<url>
-	 <loc>https://uwatch4free.netlify.app/</loc>
-    <xhtml:link
-               rel="alternate"
-               hreflang="en-SE" 
-               href="https://uwatch4free.netlify.app/"/>
-    </url>
-	<url>
-	 <loc>https://uwatch4free.netlify.app/</loc>
-    <xhtml:link
-               rel="alternate"
-               hreflang="en-FR" 
-               href="https://uwatch4free.netlify.app/"/>
-    </url>
-	<url>
-	 <loc>https://uwatch4free.netlify.app/</loc>
-    <xhtml:link
-               rel="alternate"
-               hreflang="en-DK" 
-               href="https://uwatch4free.netlify.app/"/>
-    </url>
-    <url>
-	 <loc>https://uwatch4free.netlify.app/</loc>
-    <xhtml:link
-               rel="alternate"
-               hreflang="en-NO" 
-               href="https://uwatch4free.netlify.app/"/>
-    </url>
 <url>
 	<loc>https://uwatch4free.netlify.app/</loc>
 	<lastmod>2022-04-10T16:20:01+01:00</lastmod>
