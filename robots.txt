@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://freemovetickets.netlify.app/sitemap.xml
+Sitemap: https://yahoomovie.netlify.app/sitemap.xml
